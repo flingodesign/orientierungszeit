@@ -3604,7 +3604,7 @@ p {
 .description,
 .card-description,
 .footer-big p {
-  color: #9A9A9A;
+  color: #262626;
   font-weight: 300;
 }
 
@@ -7339,4 +7339,8 @@ img {
 .highlight {
 	color: #669999 !important; 
 
+}
+
+.schrift-tanne {
+	color: #1B4522
 }
