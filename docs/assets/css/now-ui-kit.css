@@ -7344,3 +7344,11 @@ img {
 .schrift-tanne {
 	color: #1B4522
 }
+
+@media only screen and (max-width: 500px) {
+
+   .title { 
+      font-size: 2em;  
+   } 
+
+}
